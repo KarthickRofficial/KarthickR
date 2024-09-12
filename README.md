@@ -7,7 +7,6 @@
 * Self-Taught Coder
 * Demanding Perfectionist
  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
- <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/Karthicksofficial)<br>
 📬 How to reach me: [hirthicksoffical@gmail.com](mailto:Karthicksoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Karthick%20official.pdf)<br>
@@ -15,7 +14,7 @@
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
 
-
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
 <img src="https://magiccopy.xyz/assets/images/hadder.gif"> <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="30"> <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="30"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="30"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="30"> <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="30"> <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" height="30"> <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" height="30">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
