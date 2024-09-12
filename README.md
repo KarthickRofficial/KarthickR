@@ -1,5 +1,4 @@
-# Welcome to [Karthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Karthick6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+# Welcome to [Karthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Karthick6/"> <img src="<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />" />
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
 * Future Data Scientist 
