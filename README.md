@@ -1,4 +1,4 @@
-# Welcome to [Karthick's](https://github.com/Hirthick6/) profile!
+# Welcome to [Karthigaikumar's](https://github.com/Hirthick6/) profile!
 
 ### I'm a... 
 
@@ -7,6 +7,7 @@
 * Self-Taught Coder
 * Demanding Perfectionist
  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+ <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/Karthicksofficial)<br>
 📬 How to reach me: [hirthicksoffical@gmail.com](mailto:Karthicksoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Karthick%20official.pdf)<br>
