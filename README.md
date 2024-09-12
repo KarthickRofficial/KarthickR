@@ -1,5 +1,4 @@
 # Welcome to [Karthick's](https://github.com/Hirthick6/) profile!
-<a href="https://github.com/Karthick6/"> <img src="<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />"
 
 ### I'm a...  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
