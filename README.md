@@ -1,28 +1,31 @@
-# Welcome to [Karthigaikumar's](https://github.com/Hirthick6/) profile!
+# Welcome to [Karthigailkumar's](https://github.com/Karthigaikumar6/) profile! <a href="https://github.com/Karthigaikumar6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a... 
+### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
 * Demanding Perfectionist
- <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/Karthicksofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:Karthicksoffcial@gmail.com)<br>
-📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Karthick%20official.pdf)<br>
+
+🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/karthigaikumarofficial)<br>
+📬 How to reach me: [Karthigaikumaroffical@gmail.com](mailto:Karthigaikumaroffcial@gmail.com)<br>
+📝 [Resume](https://github.com/Karthigaikumar6/RESUME/blob/main/karthigaikumar%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
-<img src="https://magiccopy.xyz/assets/images/hadder.gif"> <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="30"> <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="30"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="30"> 
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> <img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge&logo=deep-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Computer%20Vision-blue?style=for-the-badge&logo=computer-vision&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+
 ### Find me on 
 
 _(click the button!)_
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:Karthicksofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthigaikumar6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:karthigaikumarofficial@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
@@ -48,21 +51,21 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 ### 📊 My GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Karthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
+![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
 
-![](https://github-profile-trophy.vercel.app/?username=Karthick6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hirthick6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karthick6&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Karthigaikumar6&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickRofficial6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 
 
-- 👨‍💻All of my projects are available at [https://github.com/Karthick6](https://github.com/Hirthick6)
+- 👨‍💻All of my projects are available at [https://github.com/Karthigaikumar6](https://github.com/Hirthick6)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@Hirthick`](https://github.com/Karthick6)✨**
+✨[`@Hirthick`](https://github.com/Karthigaikumar6)✨**
 
 
 Projects: 
@@ -75,17 +78,17 @@ Projects:
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Karthick6/Startup-Company-Machine-Learning)
+[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
 
 ## Project Overview:
 
-#### Mr. Hirthick have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
+#### Mr. Karthigaikumar  have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
 
 - ### Team Members
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
 )
 
-###  If you have any doubt or want to contribute feel free to hit me up on (Karthicksofficial@gmail.com)
+###  If you have any doubt or want to contribute feel free to hit me up on (karthigaikumarofficial@gmail.com)
 
 
 # Startup-Company-Machine-Learning with Streamlit Demo
@@ -145,5 +148,5 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (karthigaikumarofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
